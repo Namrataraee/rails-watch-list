@@ -1,0 +1,2 @@
+module RenameBookmarkToBookmarksHelper
+end
